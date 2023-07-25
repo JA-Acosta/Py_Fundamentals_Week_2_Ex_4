@@ -1,0 +1,5 @@
+This is the tenth program derived from 100 program prompts suggested by ChatGPT for a 4 week python course. Since I already have programming expertise, I'll be combining the following 2 prompts into a single program. My main goal is to pay close attention to pythonic syntax, creating/updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+The following 2 prompts were used:
+30. Write a program that calculates the sum of all even numbers in a list using a function.
+31. Create a function that finds the maximum element in a list.
